@@ -1,0 +1,15 @@
+[
+  {
+    "studentId": "CS137",
+    "name": "Sarah Example",
+    "borrowed": [
+      {"bookId":"B001","title":"Programming in C","issueDate":"2025-09-01","dueDate":"2025-09-21","status":"issued"},
+      {"bookId":"B012","title":"Data Structures","issueDate":"2025-10-01","dueDate":"2025-10-21","status":"returned"}
+    ]
+  },
+  {
+    "studentId":"CS138",
+    "name":"Demo Student",
+    "borrowed":[{"bookId":"B002","title":"Operating Systems","issueDate":"2025-08-10","dueDate":"2025-08-30","status":"returned"}]
+  }
+]
